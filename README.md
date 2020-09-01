@@ -25,7 +25,7 @@ I work with Ruby, DevOps tools like Ansible, Chef, Puppet, Containerization tech
     <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/terraform.gif" width="120" />
   </a>
    <a href="https://www.python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/python.gif" width="120" />
+    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/python.gif" height="75" />
   </a>
  </p>
  
