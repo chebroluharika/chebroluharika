@@ -6,7 +6,7 @@
 
 I am Harika, a passionate and continous learner from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
 
-I work with Python, Ruby, DevOps tools like Ansible, Chef, Puppet, Containerization technologies like Docker, Kubernetes and Cloud-Native technologies.☁️🚀
+I work with Ruby, DevOps tools like Ansible, Chef, Puppet, Containerization technologies like Docker, Kubernetes and Cloud-Native technologies.☁️🚀
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
@@ -24,6 +24,9 @@ I work with Python, Ruby, DevOps tools like Ansible, Chef, Puppet, Containerizat
   <a href="https://www.terraform.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/terraform.gif" width="120" />
   </a>
+   <a href="https://www.python.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/python.gif" width="120" />
+  </a>
  </p>
  
  ### Cloud Service Providers
@@ -31,6 +34,9 @@ I work with Python, Ruby, DevOps tools like Ansible, Chef, Puppet, Containerizat
 <p float="left"> 
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/aws.gif"  height="75" />
+  </a>
+    <a href="https://azure.microsoft.com/en-us/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/azure.gif"  height="75" />
   </a>
  </p>
 
