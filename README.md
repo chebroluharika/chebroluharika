@@ -4,9 +4,35 @@
 **chebroluharika/chebroluharika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am Harika, a passionate and creative developer from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
+I am Harika, a passionate and continous learner from [🇮🇳](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
 
-I mostly work with Python, Ruby, DevOps tools like Ansible, Chef, Puppet, Containerization technologies like Docker, Kubernetes and Cloud-Native technologies.☁️🚀
+I work with Python, Ruby, DevOps tools like Ansible, Chef, Puppet, Containerization technologies like Docker, Kubernetes and Cloud-Native technologies.☁️🚀
+
+<p float="left">
+  <a href="https://golang.org/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/golang.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/docker.gif"  height="80" /> 
+  </a>
+  <a href="https://kubernetes.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/k8s.gif"  height="75" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/terraform.gif" width="120" />
+  </a>
+ </p>
+ 
+ ### Cloud Service Providers
+ 
+<p float="left"> 
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/chebroluharika/chebroluharika/master/assets/aws.gif"  height="75" />
+  </a>
+ </p>
 
 
 
